@@ -1,1 +1,1 @@
-# Mittre-threat-hunt
+# Mitre-threat-hunt
